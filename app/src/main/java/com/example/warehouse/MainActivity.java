@@ -11,5 +11,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("YYY","develop==============第一次提交的分支代码");
+        Log.i("YYY","develop==============第二次提交的分支代码");
+        firstTime();
+    }
+
+    void firstTime(){
+        Log.i("YYY","develop==============第一次提交的分支代码");
     }
 }
