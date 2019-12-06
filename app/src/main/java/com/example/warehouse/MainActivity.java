@@ -17,10 +17,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void firstTime(){
-        Log.i("YYY","develop==============第一次提交的分支代码");
+        Log.i("YYY","develop= =====第一次提交的分支代码");
     }
     void firstTime2(String str){
-        Log.i("YYY","develop==============第一次提交的分支代码");
+        Log.i("YYY","develop======= ===第一次提交的分支代码");
     } void firstTime3(String str){
         Log.i("YYY","develop==============第一次提交的分支代码");
     } void firstTime4(String str){
